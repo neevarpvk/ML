@@ -1,1 +1,1 @@
-Python Codes for various ML algorithms. 
+Python codes for various ML algorithms. 
