@@ -82,5 +82,3 @@ for model in estimators [:head]:
     print("\tR2 score:", r2_score(y_test, predictions))
     print()
 
-###########################################################################################################
-
