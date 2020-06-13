@@ -15,7 +15,7 @@ from sklearn import preprocessing #data scaling - normalization and standardizat
 #from sklearn.metrics import confusion_matrix
 
 # Import dataset
-df = pd.read_csv("/Users/praveenvudumu/desktop/datascience/datasets/advertising.csv")
+df = pd.read_csv("/Users/praveen/desktop/datascience/datasets/advertising.csv")
 
 # Exploring the df
 
