@@ -3,7 +3,7 @@
 """
 Created on Sun Jun  7 17:09:14 2020
 
-@author: praveenvudumu
+@author: praveen
 """
 
 # import modules
@@ -19,7 +19,7 @@ from sklearn.metrics import confusion_matrix, plot_confusion_matrix
 # load data and label columns
 
 # https://archive.ics.uci.edu/ml/datasets/Heart+Disease
-df = pd.read_csv("/Users/praveenvudumu/desktop/datascience/datasets/heatdisease_uciml.data", header = None)
+df = pd.read_csv("/Users/praveen/desktop/datascience/datasets/heatdisease_uciml.data", header = None)
 df.columns = [
     'age',
     'sex',
