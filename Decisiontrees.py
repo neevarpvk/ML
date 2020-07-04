@@ -11,7 +11,7 @@ Created on Fri Jul  3 19:57:37 2020
 """
 Created on Sun Jun  7 17:09:14 2020
 
-@author: praveenvudumu
+@author: praveen
 """
 
 # import modules
