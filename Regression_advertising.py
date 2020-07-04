@@ -3,7 +3,7 @@
 """
 Created on Sun May 10 11:17:45 2020
 
-@author: praveenvudumu
+@author: praveen
 """
 # Import modules
 import pandas as pd
