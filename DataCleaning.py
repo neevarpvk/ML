@@ -18,7 +18,7 @@ from sklearn.linear_model import LinearRegression
 # -------------------------------------------------------------------------------------------------------------- #
 
 #load df
-df = pd.read_csv("/Users/praveenvudumu/desktop/datascience/datasets/auto-mpg.csv")
+df = pd.read_csv("/Users/praveen/desktop/datascience/datasets/auto-mpg.csv")
 
 #get data types and array size
 df.dtypes
@@ -125,7 +125,7 @@ y_pred = linear_model.predict(X_test)
 
 from sklearn.impute import SimpleImputer
 
-df = pd.read_csv("/Users/praveenvudumu/desktop/datascience/datasets/diabetes.csv")
+df = pd.read_csv("/Users/praveen/desktop/datascience/datasets/diabetes.csv")
 #get basic stats of df
 df.shape
 df.info()
