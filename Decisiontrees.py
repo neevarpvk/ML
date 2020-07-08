@@ -1,18 +1,4 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Jul  3 19:57:37 2020
 
-@author: praveenvudumu
-"""
-
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Jun  7 17:09:14 2020
-
-@author: praveenvudumu
-"""
 
 # import modules
 
@@ -26,7 +12,7 @@ from sklearn.metrics import confusion_matrix, plot_confusion_matrix
 # load data and label columns
 
 # https://archive.ics.uci.edu/ml/datasets/Heart+Disease
-df = pd.read_csv("/Users/praveenvudumu/desktop/datascience/datasets/heatdisease_uciml.data", header = None)
+df = pd.read_csv("heatdisease_uciml.data", header = None)
 df.columns = [
     'age',
     'sex',
